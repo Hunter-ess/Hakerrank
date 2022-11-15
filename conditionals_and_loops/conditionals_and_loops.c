@@ -21,7 +21,7 @@ int main() {
             }    
         } 
     }
-
+ 
     for (j = 0; j < k; j++) {
         for (i = 0; i < k; i++) {
             printf("%d ", tab[i][j]);
